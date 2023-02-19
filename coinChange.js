@@ -46,6 +46,6 @@ let coins = [
 
 let penceAmount = 200;
 
-coinChange(coins, penceAmount);
+console.log(coinChange(coins, penceAmount));
 
 module.exports = coinChange;
